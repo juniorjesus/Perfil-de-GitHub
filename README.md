@@ -11,7 +11,7 @@ Esta es una sencilla aplicación desarrollada en JavaScript para buscar perfiles
 
 ### Construido con 🛠️
 
-* [html5](https://developer.mozilla.org/es/docs/Web/HTML/Element) - El framework web usado
-* [Css3](https://developer.mozilla.org/es/docs/Web/CSS) - El framework web usado
+* [html5](https://developer.mozilla.org/es/docs/Web/HTML/Element) - Lenguaje de Marcado de Hipertexto
+* [Css3](https://developer.mozilla.org/es/docs/Web/CSS) - Como Hojas de Estilos en Cascada
 * [Google Fonts](https://fonts.google.com/) - Directorio Interactivo
-* [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) - Plugin o Herramienta para añadir los Slider
+* [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) - Lenguaje de programación
